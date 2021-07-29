@@ -28,12 +28,12 @@ Otherwise after you’ve created and activated a virtual environment, enter the 
 
 2. Initialize and activate a virtualenv:
 
-        $ python3 -m venv tutorial-env
-        $ source tutorial-env/bin/activate
+        $ python3 -m venv env
+        $ source env/bin/activate
 
 3.  Run the application:
 
-        (tutorial-env) $ python manage.py runserver
+        (env) $ python manage.py runserver
 
 ## Routes
 
